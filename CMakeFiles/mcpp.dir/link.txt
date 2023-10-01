@@ -1,0 +1,2 @@
+/usr/bin/ar qc libmcpp.a CMakeFiles/mcpp.dir/src/block.cpp.o CMakeFiles/mcpp.dir/src/connection.cpp.o CMakeFiles/mcpp.dir/src/mcpp.cpp.o CMakeFiles/mcpp.dir/src/util.cpp.o
+/usr/bin/ranlib libmcpp.a

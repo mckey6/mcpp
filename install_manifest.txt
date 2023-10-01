@@ -1,0 +1,6 @@
+/usr/local/lib/libmcpp.a
+/usr/local/include/mcpp/block.h
+/usr/local/include/mcpp/connection.h
+/usr/local/include/mcpp/entity.h
+/usr/local/include/mcpp/mcpp.h
+/usr/local/include/mcpp/util.h

@@ -1,0 +1,17 @@
+/home/jesse_brown/github-classroom/rmit-computing-technologies/cosc2804-sep-23-assignment-2-mckey6/mcpp/CMakeFiles/mcpp.dir
+/home/jesse_brown/github-classroom/rmit-computing-technologies/cosc2804-sep-23-assignment-2-mckey6/mcpp/CMakeFiles/test.dir
+/home/jesse_brown/github-classroom/rmit-computing-technologies/cosc2804-sep-23-assignment-2-mckey6/mcpp/CMakeFiles/edit_cache.dir
+/home/jesse_brown/github-classroom/rmit-computing-technologies/cosc2804-sep-23-assignment-2-mckey6/mcpp/CMakeFiles/rebuild_cache.dir
+/home/jesse_brown/github-classroom/rmit-computing-technologies/cosc2804-sep-23-assignment-2-mckey6/mcpp/CMakeFiles/list_install_components.dir
+/home/jesse_brown/github-classroom/rmit-computing-technologies/cosc2804-sep-23-assignment-2-mckey6/mcpp/CMakeFiles/install.dir
+/home/jesse_brown/github-classroom/rmit-computing-technologies/cosc2804-sep-23-assignment-2-mckey6/mcpp/CMakeFiles/install/local.dir
+/home/jesse_brown/github-classroom/rmit-computing-technologies/cosc2804-sep-23-assignment-2-mckey6/mcpp/CMakeFiles/install/strip.dir
+/home/jesse_brown/github-classroom/rmit-computing-technologies/cosc2804-sep-23-assignment-2-mckey6/mcpp/test/CMakeFiles/local_tests.dir
+/home/jesse_brown/github-classroom/rmit-computing-technologies/cosc2804-sep-23-assignment-2-mckey6/mcpp/test/CMakeFiles/test_suite.dir
+/home/jesse_brown/github-classroom/rmit-computing-technologies/cosc2804-sep-23-assignment-2-mckey6/mcpp/test/CMakeFiles/test.dir
+/home/jesse_brown/github-classroom/rmit-computing-technologies/cosc2804-sep-23-assignment-2-mckey6/mcpp/test/CMakeFiles/edit_cache.dir
+/home/jesse_brown/github-classroom/rmit-computing-technologies/cosc2804-sep-23-assignment-2-mckey6/mcpp/test/CMakeFiles/rebuild_cache.dir
+/home/jesse_brown/github-classroom/rmit-computing-technologies/cosc2804-sep-23-assignment-2-mckey6/mcpp/test/CMakeFiles/list_install_components.dir
+/home/jesse_brown/github-classroom/rmit-computing-technologies/cosc2804-sep-23-assignment-2-mckey6/mcpp/test/CMakeFiles/install.dir
+/home/jesse_brown/github-classroom/rmit-computing-technologies/cosc2804-sep-23-assignment-2-mckey6/mcpp/test/CMakeFiles/install/local.dir
+/home/jesse_brown/github-classroom/rmit-computing-technologies/cosc2804-sep-23-assignment-2-mckey6/mcpp/test/CMakeFiles/install/strip.dir

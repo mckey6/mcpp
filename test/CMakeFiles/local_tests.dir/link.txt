@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/local_tests.dir/local_tests.cpp.o -o local_tests  ../libmcpp.a 
